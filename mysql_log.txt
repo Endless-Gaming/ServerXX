@@ -1,0 +1,121 @@
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[21:18:15] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLQuery::Execute[OnServerLoadSettings()] - (error #2006) MySQL server has gone away
+[21:18:15] [WARNING] CMySQLQuery::Execute[OnServerLoadSettings()] - lost connection, reconnecting..
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - (error #2006) MySQL server has gone away
+[21:18:15] [WARNING] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - lost connection, reconnecting..
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - (error #2006) MySQL server has gone away
+[21:18:15] [WARNING] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - lost connection, reconnecting..
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactions()] - (error #2006) MySQL server has gone away
+[21:18:15] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactions()] - lost connection, reconnecting..
+[21:18:15] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:15] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - (error #2006) MySQL server has gone away
+[21:18:16] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - lost connection, reconnecting..
+[21:18:16] [WARNING] CMySQLConnection::Disconnect - no connection available
+[21:18:16] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[21:18:22] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLQuery::Execute[OnServerLoadSettings()] - (error #2006) MySQL server has gone away
+[21:18:22] [WARNING] CMySQLQuery::Execute[OnServerLoadSettings()] - lost connection, reconnecting..
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - (error #2006) MySQL server has gone away
+[21:18:22] [WARNING] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - lost connection, reconnecting..
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - (error #2006) MySQL server has gone away
+[21:18:22] [WARNING] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - lost connection, reconnecting..
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:22] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactions()] - (error #2006) MySQL server has gone away
+[21:18:22] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactions()] - lost connection, reconnecting..
+[21:18:22] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:18:23] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - (error #2006) MySQL server has gone away
+[21:18:23] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - lost connection, reconnecting..
+[21:18:23] [WARNING] CMySQLConnection::Disconnect - no connection available
+[21:18:23] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:06] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:06] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:07] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[20:05:07] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[20:05:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:07] [ERROR] CMySQLQuery::Execute[OnServerLoadSettings()] - (error #2006) MySQL server has gone away
+[20:05:07] [WARNING] CMySQLQuery::Execute[OnServerLoadSettings()] - lost connection, reconnecting..
+[20:05:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:07] [ERROR] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - (error #2006) MySQL server has gone away
+[20:05:07] [WARNING] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - lost connection, reconnecting..
+[20:05:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:07] [ERROR] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - (error #2006) MySQL server has gone away
+[20:05:07] [WARNING] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - lost connection, reconnecting..
+[20:05:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:07] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactions()] - (error #2006) MySQL server has gone away
+[20:05:07] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactions()] - lost connection, reconnecting..
+[20:05:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[20:05:07] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - (error #2006) MySQL server has gone away
+[20:05:07] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - lost connection, reconnecting..
+[20:05:07] [WARNING] CMySQLConnection::Disconnect - no connection available
+[20:05:07] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:55] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:55] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:56] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[18:43:56] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[18:43:56] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:56] [ERROR] CMySQLQuery::Execute[OnServerLoadSettings()] - (error #2006) MySQL server has gone away
+[18:43:56] [WARNING] CMySQLQuery::Execute[OnServerLoadSettings()] - lost connection, reconnecting..
+[18:43:56] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:56] [ERROR] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - (error #2006) MySQL server has gone away
+[18:43:56] [WARNING] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - lost connection, reconnecting..
+[18:43:56] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:56] [ERROR] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - (error #2006) MySQL server has gone away
+[18:43:56] [WARNING] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - lost connection, reconnecting..
+[18:43:56] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:56] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactions()] - (error #2006) MySQL server has gone away
+[18:43:56] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactions()] - lost connection, reconnecting..
+[18:43:56] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[18:43:56] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - (error #2006) MySQL server has gone away
+[18:43:56] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - lost connection, reconnecting..
+[18:43:56] [ERROR] CMySQLConnection::Connect - (error #1045) Access denied for user 'root'@'localhost' (using password: YES)
+[21:34:14] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:15] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:15] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[21:34:15] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[21:34:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:16] [ERROR] CMySQLQuery::Execute[OnServerLoadSettings()] - (error #2006) MySQL server has gone away
+[21:34:16] [WARNING] CMySQLQuery::Execute[OnServerLoadSettings()] - lost connection, reconnecting..
+[21:34:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:17] [ERROR] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - (error #2006) MySQL server has gone away
+[21:34:17] [WARNING] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - lost connection, reconnecting..
+[21:34:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:18] [ERROR] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - (error #2006) MySQL server has gone away
+[21:34:18] [WARNING] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - lost connection, reconnecting..
+[21:34:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:20] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactions()] - (error #2006) MySQL server has gone away
+[21:34:20] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactions()] - lost connection, reconnecting..
+[21:34:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[21:34:21] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - (error #2006) MySQL server has gone away
+[21:34:21] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - lost connection, reconnecting..
+[12:54:16] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:17] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:17] [ERROR] CMySQLQuery::Execute[()] - (error #2006) MySQL server has gone away
+[12:54:17] [WARNING] CMySQLQuery::Execute[()] - lost connection, reconnecting..
+[12:54:18] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:18] [ERROR] CMySQLQuery::Execute[OnServerLoadSettings()] - (error #2006) MySQL server has gone away
+[12:54:18] [WARNING] CMySQLQuery::Execute[OnServerLoadSettings()] - lost connection, reconnecting..
+[12:54:19] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:19] [ERROR] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - (error #2006) MySQL server has gone away
+[12:54:19] [WARNING] CMySQLQuery::Execute[OnScriptLoadHouses(i)] - lost connection, reconnecting..
+[12:54:20] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:20] [ERROR] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - (error #2006) MySQL server has gone away
+[12:54:20] [WARNING] CMySQLQuery::Execute[OnScriptLoadBusinesses()] - lost connection, reconnecting..
+[12:54:21] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:21] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactions()] - (error #2006) MySQL server has gone away
+[12:54:21] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactions()] - lost connection, reconnecting..
+[12:54:22] [ERROR] CMySQLConnection::Connect - (error #2003) Can't connect to MySQL server on '127.0.0.1' (10061)
+[12:54:22] [ERROR] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - (error #2006) MySQL server has gone away
+[12:54:22] [WARNING] CMySQLQuery::Execute[OnScriptLoadFactionVehicles()] - lost connection, reconnecting..

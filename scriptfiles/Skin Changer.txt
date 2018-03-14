@@ -1,0 +1,111 @@
+// TextDraw developed using Zamaroht's Textdraw Editor 1.0
+
+// On top of script:
+new Text:Textdraw0;
+new Text:Textdraw1;
+new Text:Textdraw2;
+new Text:Textdraw3;
+new Text:Textdraw4;
+new Text:Textdraw5;
+new Text:Textdraw6;
+new Text:Textdraw7;
+
+// In OnGameModeInit prefferably, we procced to create our textdraws:
+Textdraw0 = TextDrawCreate(482.000000, 376.000000, "-");
+TextDrawBackgroundColor(Textdraw0, 255);
+TextDrawFont(Textdraw0, 0);
+TextDrawLetterSize(Textdraw0, 0.000000, 1.700000);
+TextDrawColor(Textdraw0, -1);
+TextDrawSetOutline(Textdraw0, 0);
+TextDrawSetProportional(Textdraw0, 0);
+TextDrawSetShadow(Textdraw0, 1);
+TextDrawUseBox(Textdraw0, 1);
+TextDrawBoxColor(Textdraw0, 100);
+TextDrawTextSize(Textdraw0, 519.000000, -40.000000);
+
+Textdraw1 = TextDrawCreate(602.000000, 376.000000, "-");
+TextDrawBackgroundColor(Textdraw1, 255);
+TextDrawFont(Textdraw1, 0);
+TextDrawLetterSize(Textdraw1, 0.000000, 1.700000);
+TextDrawColor(Textdraw1, -1);
+TextDrawSetOutline(Textdraw1, 0);
+TextDrawSetProportional(Textdraw1, 0);
+TextDrawSetShadow(Textdraw1, 1);
+TextDrawUseBox(Textdraw1, 1);
+TextDrawBoxColor(Textdraw1, 100);
+TextDrawTextSize(Textdraw1, 559.000000, -40.000000);
+
+Textdraw2 = TextDrawCreate(482.000000, 348.000000, "-");
+TextDrawBackgroundColor(Textdraw2, 255);
+TextDrawFont(Textdraw2, 0);
+TextDrawLetterSize(Textdraw2, 0.000000, 1.700000);
+TextDrawColor(Textdraw2, -1);
+TextDrawSetOutline(Textdraw2, 0);
+TextDrawSetProportional(Textdraw2, 0);
+TextDrawSetShadow(Textdraw2, 1);
+TextDrawUseBox(Textdraw2, 1);
+TextDrawBoxColor(Textdraw2, 100);
+TextDrawTextSize(Textdraw2, 519.000000, -40.000000);
+
+Textdraw3 = TextDrawCreate(569.000000, 378.000000, "Next");
+TextDrawBackgroundColor(Textdraw3, 255);
+TextDrawFont(Textdraw3, 2);
+TextDrawLetterSize(Textdraw3, 0.200000, 1.000000);
+TextDrawColor(Textdraw3, -6749953);
+TextDrawSetOutline(Textdraw3, 0);
+TextDrawSetProportional(Textdraw3, 1);
+TextDrawSetShadow(Textdraw3, 1);
+TextDrawUseBox(Textdraw3, 1);
+TextDrawBoxColor(Textdraw3, 255);
+TextDrawTextSize(Textdraw3, 590.000000, 12.000000);
+
+Textdraw4 = TextDrawCreate(490.000000, 378.000000, "Back");
+TextDrawBackgroundColor(Textdraw4, 255);
+TextDrawFont(Textdraw4, 2);
+TextDrawLetterSize(Textdraw4, 0.200000, 1.000000);
+TextDrawColor(Textdraw4, -6749953);
+TextDrawSetOutline(Textdraw4, 0);
+TextDrawSetProportional(Textdraw4, 1);
+TextDrawSetShadow(Textdraw4, 1);
+TextDrawUseBox(Textdraw4, 1);
+TextDrawBoxColor(Textdraw4, 255);
+TextDrawTextSize(Textdraw4, 510.000000, 0.000000);
+
+Textdraw5 = TextDrawCreate(602.000000, 348.000000, "-");
+TextDrawBackgroundColor(Textdraw5, 255);
+TextDrawFont(Textdraw5, 0);
+TextDrawLetterSize(Textdraw5, 0.000000, 1.700000);
+TextDrawColor(Textdraw5, -1);
+TextDrawSetOutline(Textdraw5, 0);
+TextDrawSetProportional(Textdraw5, 0);
+TextDrawSetShadow(Textdraw5, 1);
+TextDrawUseBox(Textdraw5, 1);
+TextDrawBoxColor(Textdraw5, 100);
+TextDrawTextSize(Textdraw5, 559.000000, -40.000000);
+
+Textdraw6 = TextDrawCreate(565.000000, 350.000000, "Cancel");
+TextDrawBackgroundColor(Textdraw6, 255);
+TextDrawFont(Textdraw6, 2);
+TextDrawLetterSize(Textdraw6, 0.200000, 1.000000);
+TextDrawColor(Textdraw6, -6749953);
+TextDrawSetOutline(Textdraw6, 0);
+TextDrawSetProportional(Textdraw6, 1);
+TextDrawSetShadow(Textdraw6, 1);
+TextDrawUseBox(Textdraw6, 1);
+TextDrawBoxColor(Textdraw6, 255);
+TextDrawTextSize(Textdraw6, 595.000000, 0.000000);
+
+Textdraw7 = TextDrawCreate(485.000000, 350.000000, "Select");
+TextDrawBackgroundColor(Textdraw7, 255);
+TextDrawFont(Textdraw7, 2);
+TextDrawLetterSize(Textdraw7, 0.200000, 1.000000);
+TextDrawColor(Textdraw7, -6749953);
+TextDrawSetOutline(Textdraw7, 0);
+TextDrawSetProportional(Textdraw7, 1);
+TextDrawSetShadow(Textdraw7, 1);
+TextDrawUseBox(Textdraw7, 1);
+TextDrawBoxColor(Textdraw7, 255);
+TextDrawTextSize(Textdraw7, 515.000000, 0.000000);
+
+// You can now use TextDrawShowForPlayer(-ForAll), TextDrawHideForPlayer(-ForAll) and
+// TextDrawDestroy functions to show, hide, and destroy the textdraw.
